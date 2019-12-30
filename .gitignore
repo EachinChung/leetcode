@@ -1,0 +1,6 @@
+# 此为注释 ,以下将被 Git 忽略
+.idea
+.vscode
+.DS_Store
+venv
+
